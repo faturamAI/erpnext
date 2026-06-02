@@ -1,0 +1,1 @@
+[Contribution Guidelines](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)

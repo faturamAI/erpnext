@@ -1,0 +1,1 @@
+Please use this link to for "Ubuntu HA Cluster with lsyncd, remote MariaDB, Apache Reverse Proxy Setup Guide" - https://github.com/devdesco/erpnext/wiki/Ubuntu-HA-Cluster-with-lsyncd,-remote-MariaDB,-Apache-Reverse-Proxy-Setup-Guide--for-Dummies

@@ -1,0 +1,19 @@
+# Development
+
+
+## Dosyalar
+
+- [Adding Custom Form to Website](Adding-Custom-Form-to-Website.md) — To add a custom form to the website, you can create the form in HTML and then use the erpnext.sendmessage function via…
+- [Code Editing Tools](Code-Editing-Tools.md) — - [VSCode Debugging for Frappe by Aditya](https://github.com/frappe/frappe/pull/6216)
+- [Code Security Guidelines](Code-Security-Guidelines.md) — If you are writing simple SQL queries there is a high chance it can be achieved using the Frappe Query Builder.
+- [brackets are used while assigning the return value, to result here for instance](Coding-Standards.md)
+- [Designing Integrations](Designing-Integrations.md) — Two way syncing is not a good idea unless its absolutely necessary. If you are integrating with a 3rd party marketplace…
+- [ERPNext Performance Tuning](ERPNext-Performance-Tuning.md) — This document lays down guidelines and best practices to debug performance issues in ERPNext. This is document is a wik…
+- [Syntax](Export-Custom-field-using-export-fixtures.md)
+- [Form Design Guidelines](Form-Design-Guidelines.md) — Please keep these rules in mind while designing forms
+- [Guide to splitting modules from ERPNext](Guide-to-splitting-modules-from-ERPNext.md) — Recently we have observed a need for splitting some modules from ERPNext monolith into separate app for various reasons…
+- [Integrating Emails in ERPNext](Integrating-Emails-in-ERPNext.md) — > Rough Draft
+- [Model Design Guidelines](Model-Design-Guidelines.md) — For auto naming, use the format [MOD]-[DOC]-.YYYY.- where MOD is the module abbreviation and DOC is the DocType abbreva…
+- [Naming Guidelines](Naming-Guidelines.md) — Naming something is probably the most important decisions that you need to take as a user. Here are some guidelines wil…
+- [Sample DocType (DocType name, H1)](Page-format-for-ERPNext-docs.md)
+- [VSCode Debugging for Frappe Python](VSCode-Debugging-for-Frappe-Python.md) — refer [official documentation](https://frappeframework.com/docs/v14/user/en/debugging)

@@ -1,0 +1,1 @@
+- Ability to add server reports and scripts (based on site_config privileges)

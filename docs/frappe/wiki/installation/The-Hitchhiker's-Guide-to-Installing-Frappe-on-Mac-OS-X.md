@@ -1,0 +1,1 @@
+Refer [official documentation for installation.](https://frappeframework.com/docs/v14/user/en/installation)
